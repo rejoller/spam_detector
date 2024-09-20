@@ -1,0 +1,6 @@
+pandas
+unidecode
+nltk
+scikit-learn
+icecream
+openpyxl
